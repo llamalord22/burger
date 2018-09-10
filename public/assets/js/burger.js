@@ -12,7 +12,6 @@ $(function() {
             type: "POST",
             data: newBurger
         }).then(function() {
-            console.log("Added new burger");
             location.reload();
         });
     });
@@ -29,7 +28,6 @@ $(function() {
             type: "PUT",
             data: devouredState
         }).then(function() {
-            console.log("Burger devoured");
             location.reload();
         });
     });

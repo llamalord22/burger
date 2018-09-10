@@ -6,9 +6,8 @@
 
 body {
     padding: 10px;
-    background: #bdc3c7;
-    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7); 
-    background: linear-gradient(to right, #2c3e50, #bdc3c7);
-    font-weight: bold;
-
+    background: #0F2027;
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    
 }
